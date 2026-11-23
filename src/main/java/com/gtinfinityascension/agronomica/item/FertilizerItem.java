@@ -10,7 +10,7 @@ import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.level.Level;
 
 import com.gtinfinityascension.agronomica.block.AgCropBlockEntity;
-import com.gtinfinityascension.gtialib.lang.Tr;
+import com.typeomega.lib.lang.Tr;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.List;

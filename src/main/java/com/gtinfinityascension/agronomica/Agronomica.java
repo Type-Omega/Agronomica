@@ -23,9 +23,9 @@ import com.gtinfinityascension.agronomica.loot.WildSeedModifier;
 import com.gtinfinityascension.agronomica.registry.AgBlockEntities;
 import com.gtinfinityascension.agronomica.registry.AgBlocks;
 import com.gtinfinityascension.agronomica.registry.AgItems;
-import com.gtinfinityascension.gtialib.lang.Tr;
-import com.gtinfinityascension.gtialib.lang.TrLanguageProvider;
 import com.mojang.serialization.Codec;
+import com.typeomega.lib.lang.Tr;
+import com.typeomega.lib.lang.TrLanguageProvider;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 

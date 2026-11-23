@@ -32,7 +32,7 @@ Industrial crop breeding for GregTech packs: crop sticks, stats, cross-breeding,
         ordering = "AFTER"
         side = "BOTH"
     [[dependencies.${mod_id}]]
-        modId = "gtialib"
+        modId = "typeomegalib"
         mandatory = true
         versionRange = "[${gtialib_version},)"
         ordering = "AFTER"

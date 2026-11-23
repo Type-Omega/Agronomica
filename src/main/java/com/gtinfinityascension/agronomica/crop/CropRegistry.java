@@ -2,7 +2,7 @@ package com.gtinfinityascension.agronomica.crop;
 
 import com.gtinfinityascension.agronomica.registry.AgBlocks;
 import com.gtinfinityascension.agronomica.registry.AgItems;
-import com.gtinfinityascension.gtialib.lang.Tr;
+import com.typeomega.lib.lang.Tr;
 
 import java.util.Collection;
 import java.util.LinkedHashMap;

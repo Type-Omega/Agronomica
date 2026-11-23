@@ -6,7 +6,7 @@ import net.minecraftforge.gametest.GameTestHolder;
 import net.minecraftforge.gametest.PrefixGameTestTemplate;
 
 import com.gtinfinityascension.agronomica.Agronomica;
-import com.gtinfinityascension.gtialib.test.Sweeps;
+import com.typeomega.lib.test.Sweeps;
 
 /** Sweeps over what Agronomica registers (GTIA Lib test kit). */
 @PrefixGameTestTemplate(false)

@@ -9,7 +9,7 @@ import net.minecraftforge.registries.RegistryObject;
 import com.gtinfinityascension.agronomica.Agronomica;
 import com.gtinfinityascension.agronomica.item.FertilizerItem;
 import com.gtinfinityascension.agronomica.item.SeedItem;
-import com.gtinfinityascension.gtialib.lang.Tr;
+import com.typeomega.lib.lang.Tr;
 
 public final class AgItems {
 
