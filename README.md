@@ -1,8 +1,8 @@
 # Agronomica
 
-Industrial crop breeding for GregTech modpacks on Minecraft 1.20.1 (Forge), made for [GregTech Infinity Ascension](https://github.com/GTInfinityAscension/GregTech-Infinity-Ascension).
+Industrial crop breeding for GregTech modpacks on Minecraft 1.20.1 (Forge), made for [GregTech Infinity Ascension](https://github.com/Type-Omega/TypeOmega).
 
-> **Status: early development.** The core works: crop sticks, four Steam/LV plants (hemp, rapeseed, elephant grass, rubber bush), Growth/Gain/Resistance, cross-breeding with mutations, NPK soil and fertilisers. Hemp and rapeseed seeds drop from grass. Requires GTCEu and [GTIA Lib](https://github.com/GTInfinityAscension/GTIA-Lib).
+> **Status: early development.** The core works: crop sticks, four Steam/LV plants (hemp, rapeseed, elephant grass, rubber bush), Growth/Gain/Resistance, cross-breeding with mutations, NPK soil and fertilisers. Hemp and rapeseed seeds drop from grass. Requires GTCEu and [GTIA Lib](https://github.com/Type-Omega/TypeOmega-Lib).
 
 ## How to play (current core)
 
@@ -29,7 +29,7 @@ Inspired by GTNH's CropsNH and by Forestry, with its own mechanics.
 ./gradlew runGameTestServer
 ```
 
-Every name ships in en_us, pt_br and zh_cn. See the organisation's [contribution guidelines](https://github.com/GTInfinityAscension/.github/blob/main/CONTRIBUTING.md) and [AI policy](https://github.com/GTInfinityAscension/.github/blob/main/AI_POLICY.md).
+Every name ships in en_us, pt_br and zh_cn. See the organisation's [contribution guidelines](https://github.com/Type-Omega/.github/blob/main/CONTRIBUTING.md) and [AI policy](https://github.com/Type-Omega/.github/blob/main/AI_POLICY.md).
 
 ## License
 
