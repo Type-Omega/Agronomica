@@ -1,8 +1,8 @@
 # Agronomica
 
-Industrial crop breeding for GregTech modpacks on Minecraft 1.20.1 (Forge), made for [GregTech Infinity Ascension](https://github.com/Type-Omega/TypeOmega).
+Industrial crop breeding for GregTech modpacks on Minecraft 1.20.1 (Forge), made for [Type Omega](https://github.com/Type-Omega/TypeOmega).
 
-> **Status: early development.** The core works: crop sticks, four Steam/LV plants (hemp, rapeseed, elephant grass, rubber bush), Growth/Gain/Resistance, cross-breeding with mutations, NPK soil and fertilisers. Hemp and rapeseed seeds drop from grass. Requires GTCEu and [GTIA Lib](https://github.com/Type-Omega/TypeOmega-Lib).
+> **Status: early development.** The core works: crop sticks, four Steam/LV plants (hemp, rapeseed, elephant grass, rubber bush), Growth/Gain/Resistance, cross-breeding with mutations, NPK soil and fertilisers. Hemp and rapeseed seeds drop from grass. Requires GTCEu and [TypeOmega Lib](https://github.com/Type-Omega/TypeOmega-Lib).
 
 ## How to play (current core)
 
